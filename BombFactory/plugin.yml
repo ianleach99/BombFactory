@@ -1,0 +1,8 @@
+name: BombFactory
+main: com.bombfactory.BombFactory
+version: 1.0
+api-version: 1.17
+commands:
+   bombfactory:
+      description: Spawn a questionable pie.
+      usage: /<command>
